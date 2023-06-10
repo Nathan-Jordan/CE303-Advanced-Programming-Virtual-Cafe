@@ -4,7 +4,10 @@
 
 # CE303-Advanded-Programming-Virtual-Cafe
 Implementation of a "Virtual Cafe" using a client-server architecture in Java.<br>
-Full specification can be seen in VirtualCafe.html<br>
+
+Full specification: VirtualCafe.html<br>
+Documentation: dir:VirtualCafe Documentation<br>
+Implementation description: CE303 VirtualCafe Implementation.pdf<br>
 
 ---
 
