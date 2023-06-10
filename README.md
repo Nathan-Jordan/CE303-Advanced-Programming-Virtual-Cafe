@@ -2,7 +2,7 @@
 - Plagiarise at your own risk.
 ```
 
-# CE303-Advanded-Programming-Virtual-Cafe
+# CE303-Advanded-Programming-Virtual-Cafe-Java
 Implementation of a "Virtual Cafe" using a client-server architecture in Java.<br>
 
 Full specification: VirtualCafe.html<br>
